@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>612795DC-5E12-4F8D-81A6-D9F3EBD479D2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Ballthrow</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>805F57BC4E15D19F4725F76B575B962647A711CB</key>
+		<string>ssh://wdmycloud.local:/nfs/evil/git/BallThrow</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>proj.ios_mac/Ballthrow.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>805F57BC4E15D19F4725F76B575B962647A711CB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://wdmycloud.local:/nfs/evil/git/BallThrow</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>805F57BC4E15D19F4725F76B575B962647A711CB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>805F57BC4E15D19F4725F76B575B962647A711CB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>BallThrow</string>
+		</dict>
+	</array>
+</dict>
+</plist>
